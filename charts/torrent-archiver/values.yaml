@@ -1,5 +1,5 @@
 image:
-  repository: webtor/torrent-archiver
+  repository: ghcr.io/ios-web-tools/torrent-archiver
   tag: latest
   pullPolicy: IfNotPresent
 

@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: webtor/srt2vtt
+  repository: ghcr.io/ios-web-tools/srt2vtt
   tag: latest
   pullPolicy: IfNotPresent
 

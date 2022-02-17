@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: webtor/video-info
+  repository: ghcr.io/ios-web-tools/video-info
   tag: latest
   pullPolicy: IfNotPresent
 

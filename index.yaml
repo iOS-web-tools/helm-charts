@@ -1,909 +1,990 @@
 apiVersion: v1
 entries:
   abuse-fetcher:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T14:08:48.863856+03:00"
-    description: A Helm chart for Abuse Fetcher
-    digest: 7213d18d77a41791192e247226d233a57d2aecfaf0f9139afa81e7ab1070377c
-    name: abuse-fetcher
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/abuse-fetcher-0.1.1/abuse-fetcher-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-10-03T14:25:55.98208+03:00"
-    description: A Helm chart for Abuse Fetcher
-    digest: 025a2368e936e6ba7c211e5cd5a1e483de03b374a858b60c9586440f0cd795f7
-    name: abuse-fetcher
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/abuse-fetcher-0.1.0/abuse-fetcher-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T14:08:48.863856+03:00"
+      description: A Helm chart for Abuse Fetcher
+      digest: 7213d18d77a41791192e247226d233a57d2aecfaf0f9139afa81e7ab1070377c
+      name: abuse-fetcher
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/abuse-fetcher-0.1.1/abuse-fetcher-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-10-03T14:25:55.98208+03:00"
+      description: A Helm chart for Abuse Fetcher
+      digest: 025a2368e936e6ba7c211e5cd5a1e483de03b374a858b60c9586440f0cd795f7
+      name: abuse-fetcher
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/abuse-fetcher-0.1.0/abuse-fetcher-0.1.0.tgz
+      version: 0.1.0
   abuse-store:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-03-10T01:27:25.730123+03:00"
-    description: An Abuse Store Chart
-    digest: 7a5a8413e3991c77add4969f082b88c1af0b68ca94071a5795cc4e0d2ede13cf
-    name: abuse-store
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/abuse-store-0.1.0/abuse-store-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-03-10T01:27:25.730123+03:00"
+      description: An Abuse Store Chart
+      digest: 7a5a8413e3991c77add4969f082b88c1af0b68ca94071a5795cc4e0d2ede13cf
+      name: abuse-store
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/abuse-store-0.1.0/abuse-store-0.1.0.tgz
+      version: 0.1.0
   balancer-excluder:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T14:08:49.517092+03:00"
-    description: A Helm chart for Balancer Excluder
-    digest: 571953b81ced6c3085b8b3cffdd360d11e8b9e6c7c91179605a509f2d6da1e3c
-    name: balancer-excluder
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/balancer-excluder-0.1.1/balancer-excluder-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-03-09T21:39:43.208987+03:00"
-    description: A Helm chart for Balancer Excluder
-    digest: 944ee7ce5bd300b07faaf63cc25f9c8f82b2a1883b6151173a51f080e3274a3a
-    name: balancer-excluder
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/balancer-excluder-0.1.0/balancer-excluder-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T14:08:49.517092+03:00"
+      description: A Helm chart for Balancer Excluder
+      digest: 571953b81ced6c3085b8b3cffdd360d11e8b9e6c7c91179605a509f2d6da1e3c
+      name: balancer-excluder
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/balancer-excluder-0.1.1/balancer-excluder-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-03-09T21:39:43.208987+03:00"
+      description: A Helm chart for Balancer Excluder
+      digest: 944ee7ce5bd300b07faaf63cc25f9c8f82b2a1883b6151173a51f080e3274a3a
+      name: balancer-excluder
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/balancer-excluder-0.1.0/balancer-excluder-0.1.0.tgz
+      version: 0.1.0
   content-enhancer:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T13:59:28.74617+03:00"
-    description: A Helm chart for Content Enhancer
-    digest: f872744b1cd6243213bd7a04919ac9cd3c490959d9c55f149ed95f4fcfb2ee1d
-    name: content-enhancer
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/content-enhancer-0.1.0/content-enhancer-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T13:59:28.74617+03:00"
+      description: A Helm chart for Content Enhancer
+      digest: f872744b1cd6243213bd7a04919ac9cd3c490959d9c55f149ed95f4fcfb2ee1d
+      name: content-enhancer
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/content-enhancer-0.1.0/content-enhancer-0.1.0.tgz
+      version: 0.1.0
   content-prober:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2019-12-17T01:07:49.244938+03:00"
-    description: A Content Prober Chart
-    digest: 5be5edd0c5c5484e1686555000cca886b1d91fa9dd9ffcb1e8916f28f64fbe89
-    name: content-prober
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/content-prober-0.1.0/content-prober-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2019-12-18T01:07:49.244938+03:00"
+      description: A Content Prober Chart
+      digest: baad9d32090f2aa338b60e27ddd414f82c439fb723b43bf8d23474a027abf368
+      name: content-prober
+      urls:
+        - http://127.0.0.1:8081/content-prober/content-prober-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2019-12-17T01:07:49.244938+03:00"
+      description: A Content Prober Chart
+      digest: 5be5edd0c5c5484e1686555000cca886b1d91fa9dd9ffcb1e8916f28f64fbe89
+      name: content-prober
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/content-prober-0.1.0/content-prober-0.1.0.tgz
+      version: 0.1.0
   dnslb:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-06T11:11:17.961756+03:00"
-    description: A Helm chart for DNSLB
-    digest: f0540b2adfd3f4c4d77e16434f4b91739bd6010bd06e49c31358a4d5fc226515
-    name: dnslb
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/dnslb-0.1.1/dnslb-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-06T10:54:49.988513+03:00"
-    description: A Helm chart for DNSLB
-    digest: 7a0df244b1204446eaa245cec3f1e4d64ba8714aa9725fd21be900c98feb889f
-    name: dnslb
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/dnslb-0.1.0/dnslb-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-06T11:11:17.961756+03:00"
+      description: A Helm chart for DNSLB
+      digest: f0540b2adfd3f4c4d77e16434f4b91739bd6010bd06e49c31358a4d5fc226515
+      name: dnslb
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/dnslb-0.1.1/dnslb-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-06T10:54:49.988513+03:00"
+      description: A Helm chart for DNSLB
+      digest: 7a0df244b1204446eaa245cec3f1e4d64ba8714aa9725fd21be900c98feb889f
+      name: dnslb
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/dnslb-0.1.0/dnslb-0.1.0.tgz
+      version: 0.1.0
   download-progress:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-05-27T23:33:38.532021+03:00"
-    description: Download Progress Chart
-    digest: 852c0946fe3dc57dd75ce1cb69f2571179c1ba3b3e3076cc2ba47c4f279b08b1
-    name: download-progress
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/download-progress-0.1.0/download-progress-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-05-27T23:33:38.532021+03:00"
+      description: Download Progress Chart
+      digest: 852c0946fe3dc57dd75ce1cb69f2571179c1ba3b3e3076cc2ba47c4f279b08b1
+      name: download-progress
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/download-progress-0.1.0/download-progress-0.1.0.tgz
+      version: 0.1.0
   external-proxy:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-02-02T22:00:14.814273+03:00"
-    description: An External Proxy Chart
-    digest: 9fa8f60e1aac7bcc04b5e1261de36cf3d98c4c6df74f9a9803c0cde5fcc1eab0
-    name: external-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/external-proxy-0.1.0/external-proxy-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-02-03T22:00:14.814273+03:00"
+      description: An External Proxy Chart
+      digest: 79b6037c6d2b6b0159bfed834733d1f12aa3cb19e2c283a3cae66e9d64fb756f
+      name: external-proxy
+      urls:
+        - http://127.0.0.1:8081/external-proxy/external-proxy-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-02-02T22:00:14.814273+03:00"
+      description: An External Proxy Chart
+      digest: 9fa8f60e1aac7bcc04b5e1261de36cf3d98c4c6df74f9a9803c0cde5fcc1eab0
+      name: external-proxy
+      urls:
+        - http://127.0.0.1:8081/external-proxy/external-proxy-0.1.0.tgz
+      version: 0.1.0
   image-transformer:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-08-12T00:14:11.368009+03:00"
-    description: Image Transformer Chart
-    digest: 07e940e5b9c77ded60f10ecb45a733ae2d482ddd6b884faf0f949993397cf9b5
-    name: image-transformer
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/image-transformer-0.1.0/image-transformer-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-08-12T00:14:11.368009+03:00"
+      description: Image Transformer Chart
+      digest: 07e940e5b9c77ded60f10ecb45a733ae2d482ddd6b884faf0f949993397cf9b5
+      name: image-transformer
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/image-transformer-0.1.0/image-transformer-0.1.0.tgz
+      version: 0.1.0
   jackett:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-06-27T17:29:49.046054+03:00"
-    description: Jackett Chart
-    digest: 9a7b18540c51b5d35b9d87ebfb23c06ad8b5d134a4f270391d1b1fd1a9170237
-    name: jackett
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/jackett-0.1.1/jackett-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-06-27T16:33:06.511202+03:00"
-    description: Jackett Chart
-    digest: 7700a67105be6c78b371f0f0ff07e0d204e005897392026b35430639b29edfe3
-    name: jackett
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/jackett-0.1.0/jackett-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-06-27T17:29:49.046054+03:00"
+      description: Jackett Chart
+      digest: 9a7b18540c51b5d35b9d87ebfb23c06ad8b5d134a4f270391d1b1fd1a9170237
+      name: jackett
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/jackett-0.1.1/jackett-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-06-27T16:33:06.511202+03:00"
+      description: Jackett Chart
+      digest: 7700a67105be6c78b371f0f0ff07e0d204e005897392026b35430639b29edfe3
+      name: jackett
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/jackett-0.1.0/jackett-0.1.0.tgz
+      version: 0.1.0
   job-cleaner:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T14:08:52.064295+03:00"
-    description: A Helm chart for Job Cleaner
-    digest: ec8f1953762a907da48be29b35fe8d4d07fd189bca0814feb879e34fc150ccbf
-    name: job-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/job-cleaner-0.1.2/job-cleaner-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T13:59:30.906565+03:00"
-    description: A Helm chart for Job Cleaner
-    digest: b9b7d93dbb0c9ca146c1bb90e96a5f69592ae7e22cd5ef05bc82d82b2e7f3c1c
-    name: job-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/job-cleaner-0.1.1/job-cleaner-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-03-10T00:55:35.787365+03:00"
-    description: A Helm chart for Job Cleaner
-    digest: bb5e3e35dc3d56f10bb4b3e5858a179ae5d4a683981a5370133dc038b03899ef
-    name: job-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/job-cleaner-0.1.0/job-cleaner-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-06T14:08:52.064295+03:00"
+      description: A Helm chart for Job Cleaner
+      digest: f83c92a0777184015ce1635de8637c5ece672dc97ab029cefe30407823449f89
+      name: job-cleaner
+      urls:
+        - http://127.0.0.1:8081/job-cleaner/job-cleaner-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T14:08:52.064295+03:00"
+      description: A Helm chart for Job Cleaner
+      digest: ec8f1953762a907da48be29b35fe8d4d07fd189bca0814feb879e34fc150ccbf
+      name: job-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/job-cleaner-0.1.2/job-cleaner-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T13:59:30.906565+03:00"
+      description: A Helm chart for Job Cleaner
+      digest: b9b7d93dbb0c9ca146c1bb90e96a5f69592ae7e22cd5ef05bc82d82b2e7f3c1c
+      name: job-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/job-cleaner-0.1.1/job-cleaner-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-03-10T00:55:35.787365+03:00"
+      description: A Helm chart for Job Cleaner
+      digest: bb5e3e35dc3d56f10bb4b3e5858a179ae5d4a683981a5370133dc038b03899ef
+      name: job-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/job-cleaner-0.1.0/job-cleaner-0.1.0.tgz
+      version: 0.1.0
   job-pooler:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T13:59:31.131094+03:00"
-    description: Job Pooler Chart
-    digest: abf78ddcf5b529287b4e09c440e00ebaa858d32237b0782abcd18acbf5290aee
-    name: job-pooler
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/job-pooler-0.1.0/job-pooler-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T13:59:31.131094+03:00"
+      description: Job Pooler Chart
+      digest: abf78ddcf5b529287b4e09c440e00ebaa858d32237b0782abcd18acbf5290aee
+      name: job-pooler
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/job-pooler-0.1.0/job-pooler-0.1.0.tgz
+      version: 0.1.0
   magnet2torrent:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2019-12-17T02:31:24.495108+03:00"
-    description: A Magnet2Torrent Chart
-    digest: e813ff19166392c4299859353e6cb4c5ac8c7c005729923618343e940e9aa4ea
-    name: magnet2torrent
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/magnet2torrent-0.1.0/magnet2torrent-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2019-12-18T02:31:24.495108+03:00"
+      description: A Magnet2Torrent Chart
+      digest: 868d1d5a9ff32ae0ce06a6b260d5df09fff9c221ba89c9dc7ff01e10ea10fb0a
+      name: magnet2torrent
+      urls:
+        - http://127.0.0.1:8081/magnet2torrent/magnet2torrent-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2019-12-17T02:31:24.495108+03:00"
+      description: A Magnet2Torrent Chart
+      digest: e813ff19166392c4299859353e6cb4c5ac8c7c005729923618343e940e9aa4ea
+      name: magnet2torrent
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/magnet2torrent-0.1.0/magnet2torrent-0.1.0.tgz
+      version: 0.1.0
   minio:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-30T23:06:15.736784+03:00"
-    description: Minio Chart
-    digest: fccd6e4e764c73b6eb6bc4d31e3b34c4576e978230a411feac6ecc54f60864e8
-    name: minio
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/minio-0.1.0/minio-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-30T23:06:15.736784+03:00"
+      description: Minio Chart
+      digest: fccd6e4e764c73b6eb6bc4d31e3b34c4576e978230a411feac6ecc54f60864e8
+      name: minio
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/minio-0.1.0/minio-0.1.0.tgz
+      version: 0.1.0
   minio-s3-gateway:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-13T13:54:08.548221+03:00"
-    description: Minio S3 Gateway Chart
-    digest: 33a137fbc05454fc219f8fec38a9fd442a5605df30044f96304d8b8236b3e3e3
-    name: minio-s3-gateway
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/minio-s3-gateway-0.1.1/minio-s3-gateway-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-23T10:49:57.700021+03:00"
-    description: Minio S3 Gateway Chart
-    digest: 5827416b98d9b6168a190700111ff105d7781e18663e55c4a33a4dae8c3ab6e6
-    name: minio-s3-gateway
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/minio-s3-gateway-0.1.0/minio-s3-gateway-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-13T13:54:08.548221+03:00"
+      description: Minio S3 Gateway Chart
+      digest: 33a137fbc05454fc219f8fec38a9fd442a5605df30044f96304d8b8236b3e3e3
+      name: minio-s3-gateway
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/minio-s3-gateway-0.1.1/minio-s3-gateway-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-23T10:49:57.700021+03:00"
+      description: Minio S3 Gateway Chart
+      digest: 5827416b98d9b6168a190700111ff105d7781e18663e55c4a33a4dae8c3ab6e6
+      name: minio-s3-gateway
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/minio-s3-gateway-0.1.0/minio-s3-gateway-0.1.0.tgz
+      version: 0.1.0
   nginx-vod:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-08T19:57:56.341779+03:00"
-    description: Nginx VOD Chart
-    digest: 3ce84427ef2c4f41be55351670b1af2c81398ede1bf3925a38ea40a48678edfa
-    name: nginx-vod
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/nginx-vod-0.1.0/nginx-vod-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-08T19:57:56.341779+03:00"
+      description: Nginx VOD Chart
+      digest: 3ce84427ef2c4f41be55351670b1af2c81398ede1bf3925a38ea40a48678edfa
+      name: nginx-vod
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/nginx-vod-0.1.0/nginx-vod-0.1.0.tgz
+      version: 0.1.0
   node-dns-syncer:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T14:08:53.840173+03:00"
-    description: A Helm chart for Node DNS Syncer
-    digest: 87e5730914164fe07be4aa2156c82384a92bc4075c8317cc147365e4437b89a2
-    name: node-dns-syncer
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/node-dns-syncer-0.1.2/node-dns-syncer-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-10-03T14:25:58.492719+03:00"
-    description: A Helm chart for Node DNS Syncer
-    digest: 746bd3ba93debed268416bfe1b951bf9e03e16f2e37ae097a4c34a636f902340
-    name: node-dns-syncer
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/node-dns-syncer-0.1.1/node-dns-syncer-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-01-12T18:50:51.440634+03:00"
-    description: A Helm chart for Node DNS Syncer
-    digest: a99d4da82976e3a2d2d87af18a01e3f7a94a234f854ba986a98bffd484a06849
-    name: node-dns-syncer
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/node-dns-syncer-0.1.0/node-dns-syncer-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T14:08:53.840173+03:00"
+      description: A Helm chart for Node DNS Syncer
+      digest: 87e5730914164fe07be4aa2156c82384a92bc4075c8317cc147365e4437b89a2
+      name: node-dns-syncer
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/node-dns-syncer-0.1.2/node-dns-syncer-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-10-03T14:25:58.492719+03:00"
+      description: A Helm chart for Node DNS Syncer
+      digest: 746bd3ba93debed268416bfe1b951bf9e03e16f2e37ae097a4c34a636f902340
+      name: node-dns-syncer
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/node-dns-syncer-0.1.1/node-dns-syncer-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-01-12T18:50:51.440634+03:00"
+      description: A Helm chart for Node DNS Syncer
+      digest: a99d4da82976e3a2d2d87af18a01e3f7a94a234f854ba986a98bffd484a06849
+      name: node-dns-syncer
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/node-dns-syncer-0.1.0/node-dns-syncer-0.1.0.tgz
+      version: 0.1.0
   node-manager:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2022-01-13T13:15:11.741931+03:00"
-    description: Heals nodes
-    digest: 5e1694ec60b58aadfad02afad8928abdc73d620844b0174cc1d646c90833fa47
-    name: node-manager
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/node-manager-0.1.0/node-manager-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-13T13:15:11.741931+03:00"
+      description: Heals nodes
+      digest: 5e1694ec60b58aadfad02afad8928abdc73d620844b0174cc1d646c90833fa47
+      name: node-manager
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/node-manager-0.1.0/node-manager-0.1.0.tgz
+      version: 0.1.0
   retry-proxy:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2022-01-13T13:15:11.951931+03:00"
-    description: Retry Proxy Chart
-    digest: ed8705c2b4971605579f883c4390a54b27bb3645dbbc37825bdd4ab7aed2bd57
-    name: retry-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/retry-proxy-0.1.0/retry-proxy-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-13T13:15:11.951931+03:00"
+      description: Retry Proxy Chart
+      digest: ed8705c2b4971605579f883c4390a54b27bb3645dbbc37825bdd4ab7aed2bd57
+      name: retry-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/retry-proxy-0.1.0/retry-proxy-0.1.0.tgz
+      version: 0.1.0
   srt2vtt:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-01-04T15:46:09.477622+03:00"
-    description: SRT2VTT Chart
-    digest: 799a1080a68da6ca71c4e72fffc4bdb81625ff58743477a6c1ab0c5b1afffda7
-    name: srt2vtt
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/srt2vtt-0.1.0/srt2vtt-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-01-05T15:46:09.477622+03:00"
+      description: SRT2VTT Chart
+      digest: 1d5b6111f068d14663e5dbf86d26960c3d5980c3fff46b04e6fe00dd4d9bff2d
+      name: srt2vtt
+      urls:
+        - http://127.0.0.1:8081/srt2vtt/srt2vtt-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-01-04T15:46:09.477622+03:00"
+      description: SRT2VTT Chart
+      digest: 799a1080a68da6ca71c4e72fffc4bdb81625ff58743477a6c1ab0c5b1afffda7
+      name: srt2vtt
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/srt2vtt-0.1.0/srt2vtt-0.1.0.tgz
+      version: 0.1.0
   torrent-archiver:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-06-07T18:37:44.659312+03:00"
-    description: Torrent Archiver Chart
-    digest: 672f36e9bd2c902ccef8d3ab733137e05c89f163c2ff1f6915854746f016db26
-    name: torrent-archiver
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-archiver-0.1.2/torrent-archiver-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-01-07T14:08:57.599677+03:00"
-    description: Torrent Archiver Chart
-    digest: 9e77d9f5c13bc699793f50dbb3798a5f8e688951ab18c0af997ce8911ca5b839
-    name: torrent-archiver
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-archiver-0.1.1/torrent-archiver-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-02-03T22:59:05.413484+03:00"
-    description: Torrent Archiver Chart
-    digest: 639eefd1c22721f375ab3e59cf732e7b114f5544f7bdf785c137b0fbdd8d8174
-    name: torrent-archiver
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-archiver-0.1.0/torrent-archiver-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-06-08T18:37:44.659312+03:00"
+      description: Torrent Archiver Chart
+      digest: 4ce3562d99a2538163fe2f314daebdb7c3904e21e867c6731a412e8c4657a4a8
+      name: torrent-archiver
+      urls:
+        - http://127.0.0.1:8081/torrent-archiver/torrent-archiver-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-06-07T18:37:44.659312+03:00"
+      description: Torrent Archiver Chart
+      digest: 672f36e9bd2c902ccef8d3ab733137e05c89f163c2ff1f6915854746f016db26
+      name: torrent-archiver
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-archiver-0.1.2/torrent-archiver-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-01-07T14:08:57.599677+03:00"
+      description: Torrent Archiver Chart
+      digest: 9e77d9f5c13bc699793f50dbb3798a5f8e688951ab18c0af997ce8911ca5b839
+      name: torrent-archiver
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-archiver-0.1.1/torrent-archiver-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-02-03T22:59:05.413484+03:00"
+      description: Torrent Archiver Chart
+      digest: 639eefd1c22721f375ab3e59cf732e7b114f5544f7bdf785c137b0fbdd8d8174
+      name: torrent-archiver
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-archiver-0.1.0/torrent-archiver-0.1.0.tgz
+      version: 0.1.0
   torrent-cache-cleaner:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-10-11T15:47:34.521297+03:00"
-    description: A Helm chart for Torrent Cache Cleaner
-    digest: 427572ceb4b3d41235f55e4cb178d46a4bb88f0fa6485017e7e2420609cb6882
-    name: torrent-cache-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.4/torrent-cache-cleaner-0.1.4.tgz
-    version: 0.1.4
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-18T00:28:34.144192+03:00"
-    description: A Helm chart for Torrent Cache Cleaner
-    digest: 21b53a22178728fcabe77a719e0799efa2a195c4d6749a2407d697b428ae674d
-    name: torrent-cache-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.3/torrent-cache-cleaner-0.1.3.tgz
-    version: 0.1.3
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-12T21:55:46.347474+03:00"
-    description: A Helm chart for Torrent Cache Cleaner
-    digest: 04ac4198bb279cad92447da037d53774e80b6ad2dc5e08d3f128a063cc29f6e3
-    name: torrent-cache-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.2/torrent-cache-cleaner-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-12T18:06:17.799891+03:00"
-    description: A Helm chart for Torrent Cache Cleaner
-    digest: bebb8fc0ef4134edf80a89d6714ff2ac54904e866b8e1d104091a494cbfb6533
-    name: torrent-cache-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.1/torrent-cache-cleaner-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-08T20:16:34.419554+03:00"
-    description: A Helm chart for Torrent Cache Cleaner
-    digest: 6cb8455cafef6ffde8a216d7300fcd1accd179890d8aa3968b09e687fc63f812
-    name: torrent-cache-cleaner
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.0/torrent-cache-cleaner-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-10-11T15:47:34.521297+03:00"
+      description: A Helm chart for Torrent Cache Cleaner
+      digest: 427572ceb4b3d41235f55e4cb178d46a4bb88f0fa6485017e7e2420609cb6882
+      name: torrent-cache-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.4/torrent-cache-cleaner-0.1.4.tgz
+      version: 0.1.4
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-18T00:28:34.144192+03:00"
+      description: A Helm chart for Torrent Cache Cleaner
+      digest: 21b53a22178728fcabe77a719e0799efa2a195c4d6749a2407d697b428ae674d
+      name: torrent-cache-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.3/torrent-cache-cleaner-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-12T21:55:46.347474+03:00"
+      description: A Helm chart for Torrent Cache Cleaner
+      digest: 04ac4198bb279cad92447da037d53774e80b6ad2dc5e08d3f128a063cc29f6e3
+      name: torrent-cache-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.2/torrent-cache-cleaner-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-12T18:06:17.799891+03:00"
+      description: A Helm chart for Torrent Cache Cleaner
+      digest: bebb8fc0ef4134edf80a89d6714ff2ac54904e866b8e1d104091a494cbfb6533
+      name: torrent-cache-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.1/torrent-cache-cleaner-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-08T20:16:34.419554+03:00"
+      description: A Helm chart for Torrent Cache Cleaner
+      digest: 6cb8455cafef6ffde8a216d7300fcd1accd179890d8aa3968b09e687fc63f812
+      name: torrent-cache-cleaner
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-cache-cleaner-0.1.0/torrent-cache-cleaner-0.1.0.tgz
+      version: 0.1.0
   torrent-http-proxy:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2022-01-13T14:39:25.228609+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 4b3176c8e56b4722a31f3abd5d61a6746c81463300280311457dd983d00fe5cc
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.23/torrent-http-proxy-0.1.23.tgz
-    version: 0.1.23
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2022-01-13T13:59:57.838878+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 0eafe26759f207bd711e6d75a91af162b76ddbbb11b8e9f2220ce69d9d80a299
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.22/torrent-http-proxy-0.1.22.tgz
-    version: 0.1.22
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2022-01-13T13:15:17.056902+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 7c8197f011bc2273b61784cdddf493c78b8076024816768bb2aaaaa68d37b4ed
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.21/torrent-http-proxy-0.1.21.tgz
-    version: 0.1.21
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T14:08:58.924617+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 9caab7dc36f7eb31461e4ca7d4f870016e9997e4e940fbd37285c16524760f31
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.20/torrent-http-proxy-0.1.20.tgz
-    version: 0.1.20
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T13:59:36.527419+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: efb8874ed32972f4ff881ae9375e92a3cb0468e9b3edf5c419b8cd6987f40642
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.19/torrent-http-proxy-0.1.19.tgz
-    version: 0.1.19
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-08-24T19:52:46.838194+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 16cc2ad8216b483cdd8acccc528e015bea5ce2224917934c28e1620bbd229e0c
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.18/torrent-http-proxy-0.1.18.tgz
-    version: 0.1.18
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-08-11T09:44:24.957384+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 261de69338bbd9f5e49892be7f84f1f74c55cbed5e6db83107ebf5528875e734
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.17/torrent-http-proxy-0.1.17.tgz
-    version: 0.1.17
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-08-10T22:33:27.394475+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 108441364319eb0d382a15ec0202d4b009a5d673a6d3cf36334fe0a66611361c
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.16/torrent-http-proxy-0.1.16.tgz
-    version: 0.1.16
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-04-14T10:42:51.414425+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 1591d969c5c0240452363bcd23de13fc95857b2d225b2b35a13af9043ce04b53
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.15/torrent-http-proxy-0.1.15.tgz
-    version: 0.1.15
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-30T15:12:08.978631+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 8f3e7f70ddff9424595445e5e225ae8fee8e8b4d7ac026ca03ec9fa725c3898a
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.14/torrent-http-proxy-0.1.14.tgz
-    version: 0.1.14
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-02-06T15:10:54.771879+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 6d811b2cd1e6f70c8623ab5cd40c723b6b504940a85db969fe3b9978662480dc
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.13/torrent-http-proxy-0.1.13.tgz
-    version: 0.1.13
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-12-31T20:24:40.579504+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: fe3357756905d16d6d19a474f33541d7e7aea7eb4f1ee54eacfbd3aaafb6664a
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.12/torrent-http-proxy-0.1.12.tgz
-    version: 0.1.12
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-30T14:19:20.154958+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 4611b0f0e64a23cf5ef0d73338cfdc20bea2a9f1726dc9c5b4ecc7cbc5c20818
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.11/torrent-http-proxy-0.1.11.tgz
-    version: 0.1.11
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-30T09:57:15.109682+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: d49e5644be301015e9e55b25fd6575d18f4009321635385cb88eb6de68b767ca
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.10/torrent-http-proxy-0.1.10.tgz
-    version: 0.1.10
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-11-12T21:26:25.73896+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 6c76cde12f8139a268f04be864a33ed47e71e028e96af66e22e057bd71d40810
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.9/torrent-http-proxy-0.1.9.tgz
-    version: 0.1.9
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-10-11T15:14:07.23383+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 4acb768cd0023d62d793a7f3da14870f819d7bb2d3c2edf55e80ae42fe8280de
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.8/torrent-http-proxy-0.1.8.tgz
-    version: 0.1.8
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-10-03T14:26:01.705759+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 50f58975a621a48e16bf6558ade2b636f35507af47d242cd91c07b6fe14efef0
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.7/torrent-http-proxy-0.1.7.tgz
-    version: 0.1.7
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-19T14:03:47.174952+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 9dfd6c2499ba81af8903ecbf97e624926d19f97973c5e7c030e01e82b72481ba
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.6/torrent-http-proxy-0.1.6.tgz
-    version: 0.1.6
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-18T00:28:34.854295+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 0ea932bc5013b766d8103bd5d06d778a2c93a7f4e424826281d35c6b4531f1b4
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.5/torrent-http-proxy-0.1.5.tgz
-    version: 0.1.5
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-12T18:06:18.228423+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 7ad3a4640dbf45bd8f38bb4634a52034f77cea635e4ede2ccf66008cb8b40557
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.4/torrent-http-proxy-0.1.4.tgz
-    version: 0.1.4
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-03T15:43:29.920977+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: b0909e8fd15cddd80cb2b95624f25fb2c0b6c2d42f7122cab2e9c735015cf102
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.3/torrent-http-proxy-0.1.3.tgz
-    version: 0.1.3
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-03T15:22:18.7315+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: b8f519b3d0356bb09acf00fc94ecc1f9d6e75bc850d723751b03ae6cfb9128ce
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.2/torrent-http-proxy-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-04-16T01:53:03.559265+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: b57750b209b6507cc371a7037023825d2b2b2a9d37953b0811a62128057259c3
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.1/torrent-http-proxy-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2019-12-17T02:41:34.528076+03:00"
-    description: A Torrent HTTP Proxy Chart
-    digest: 81b209c705c15b954048b2d0195658dd81f860b30786af1a4811494bee77efc0
-    name: torrent-http-proxy
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.0/torrent-http-proxy-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-14T14:39:25.228609+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: e3c5022ee156df59793b38e4b1cc875bc24a2627e38efc7df085f067fabc780e
+      name: torrent-http-proxy
+      urls:
+        - http://127.0.0.1:8081/torrent-http-proxy/torrent-http-proxy-0.1.24.tgz
+      version: 0.1.24
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-13T14:39:25.228609+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 4b3176c8e56b4722a31f3abd5d61a6746c81463300280311457dd983d00fe5cc
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.23/torrent-http-proxy-0.1.23.tgz
+      version: 0.1.23
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-13T13:59:57.838878+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 0eafe26759f207bd711e6d75a91af162b76ddbbb11b8e9f2220ce69d9d80a299
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.22/torrent-http-proxy-0.1.22.tgz
+      version: 0.1.22
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-13T13:15:17.056902+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 7c8197f011bc2273b61784cdddf493c78b8076024816768bb2aaaaa68d37b4ed
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.21/torrent-http-proxy-0.1.21.tgz
+      version: 0.1.21
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T14:08:58.924617+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 9caab7dc36f7eb31461e4ca7d4f870016e9997e4e940fbd37285c16524760f31
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.20/torrent-http-proxy-0.1.20.tgz
+      version: 0.1.20
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T13:59:36.527419+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: efb8874ed32972f4ff881ae9375e92a3cb0468e9b3edf5c419b8cd6987f40642
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.19/torrent-http-proxy-0.1.19.tgz
+      version: 0.1.19
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-08-24T19:52:46.838194+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 16cc2ad8216b483cdd8acccc528e015bea5ce2224917934c28e1620bbd229e0c
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.18/torrent-http-proxy-0.1.18.tgz
+      version: 0.1.18
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-08-11T09:44:24.957384+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 261de69338bbd9f5e49892be7f84f1f74c55cbed5e6db83107ebf5528875e734
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.17/torrent-http-proxy-0.1.17.tgz
+      version: 0.1.17
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-08-10T22:33:27.394475+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 108441364319eb0d382a15ec0202d4b009a5d673a6d3cf36334fe0a66611361c
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.16/torrent-http-proxy-0.1.16.tgz
+      version: 0.1.16
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-04-14T10:42:51.414425+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 1591d969c5c0240452363bcd23de13fc95857b2d225b2b35a13af9043ce04b53
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.15/torrent-http-proxy-0.1.15.tgz
+      version: 0.1.15
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-30T15:12:08.978631+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 8f3e7f70ddff9424595445e5e225ae8fee8e8b4d7ac026ca03ec9fa725c3898a
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.14/torrent-http-proxy-0.1.14.tgz
+      version: 0.1.14
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-02-06T15:10:54.771879+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 6d811b2cd1e6f70c8623ab5cd40c723b6b504940a85db969fe3b9978662480dc
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.13/torrent-http-proxy-0.1.13.tgz
+      version: 0.1.13
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-12-31T20:24:40.579504+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: fe3357756905d16d6d19a474f33541d7e7aea7eb4f1ee54eacfbd3aaafb6664a
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.12/torrent-http-proxy-0.1.12.tgz
+      version: 0.1.12
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-30T14:19:20.154958+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 4611b0f0e64a23cf5ef0d73338cfdc20bea2a9f1726dc9c5b4ecc7cbc5c20818
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.11/torrent-http-proxy-0.1.11.tgz
+      version: 0.1.11
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-30T09:57:15.109682+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: d49e5644be301015e9e55b25fd6575d18f4009321635385cb88eb6de68b767ca
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.10/torrent-http-proxy-0.1.10.tgz
+      version: 0.1.10
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-11-12T21:26:25.73896+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 6c76cde12f8139a268f04be864a33ed47e71e028e96af66e22e057bd71d40810
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.9/torrent-http-proxy-0.1.9.tgz
+      version: 0.1.9
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-10-11T15:14:07.23383+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 4acb768cd0023d62d793a7f3da14870f819d7bb2d3c2edf55e80ae42fe8280de
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.8/torrent-http-proxy-0.1.8.tgz
+      version: 0.1.8
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-10-03T14:26:01.705759+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 50f58975a621a48e16bf6558ade2b636f35507af47d242cd91c07b6fe14efef0
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.7/torrent-http-proxy-0.1.7.tgz
+      version: 0.1.7
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-19T14:03:47.174952+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 9dfd6c2499ba81af8903ecbf97e624926d19f97973c5e7c030e01e82b72481ba
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.6/torrent-http-proxy-0.1.6.tgz
+      version: 0.1.6
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-18T00:28:34.854295+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 0ea932bc5013b766d8103bd5d06d778a2c93a7f4e424826281d35c6b4531f1b4
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.5/torrent-http-proxy-0.1.5.tgz
+      version: 0.1.5
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-12T18:06:18.228423+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 7ad3a4640dbf45bd8f38bb4634a52034f77cea635e4ede2ccf66008cb8b40557
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.4/torrent-http-proxy-0.1.4.tgz
+      version: 0.1.4
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-03T15:43:29.920977+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: b0909e8fd15cddd80cb2b95624f25fb2c0b6c2d42f7122cab2e9c735015cf102
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.3/torrent-http-proxy-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-03T15:22:18.7315+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: b8f519b3d0356bb09acf00fc94ecc1f9d6e75bc850d723751b03ae6cfb9128ce
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.2/torrent-http-proxy-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-04-16T01:53:03.559265+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: b57750b209b6507cc371a7037023825d2b2b2a9d37953b0811a62128057259c3
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.1/torrent-http-proxy-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2019-12-17T02:41:34.528076+03:00"
+      description: A Torrent HTTP Proxy Chart
+      digest: 81b209c705c15b954048b2d0195658dd81f860b30786af1a4811494bee77efc0
+      name: torrent-http-proxy
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-http-proxy-0.1.0/torrent-http-proxy-0.1.0.tgz
+      version: 0.1.0
   torrent-store:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2022-01-13T13:15:19.182694+03:00"
-    description: A Torrent Store Chart
-    digest: ac0cc01cbda020a37d9996705fc3b36716f3764a0a6b3b8e3127f3d644164266
-    name: torrent-store
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-store-0.1.2/torrent-store-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-06-08T21:38:35.329633+03:00"
-    description: A Torrent Store Chart
-    digest: 955adb095bcf30ee96699adc74d0545bc23e25a6ddd5fea2d203f2d1373e8423
-    name: torrent-store
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-store-0.1.1/torrent-store-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2019-12-17T02:41:34.824116+03:00"
-    description: A Torrent Store Chart
-    digest: 5d08c9f61a41d03a2960f673ded3a33fb878da07492624574209123f2dcd894a
-    name: torrent-store
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-store-0.1.0/torrent-store-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-13T13:15:19.182694+03:00"
+      description: A Torrent Store Chart
+      digest: e8abad09357957bfaba69e848a7c1cf908f861a05cf94121cf6a041f960a2c9d
+      name: torrent-store
+      urls:
+        - http://127.0.0.1:8081/torrent-store/torrent-store-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2022-01-13T13:15:19.182694+03:00"
+      description: A Torrent Store Chart
+      digest: ac0cc01cbda020a37d9996705fc3b36716f3764a0a6b3b8e3127f3d644164266
+      name: torrent-store
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-store-0.1.2/torrent-store-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-06-08T21:38:35.329633+03:00"
+      description: A Torrent Store Chart
+      digest: 955adb095bcf30ee96699adc74d0545bc23e25a6ddd5fea2d203f2d1373e8423
+      name: torrent-store
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-store-0.1.1/torrent-store-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2019-12-17T02:41:34.824116+03:00"
+      description: A Torrent Store Chart
+      digest: 5d08c9f61a41d03a2960f673ded3a33fb878da07492624574209123f2dcd894a
+      name: torrent-store
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-store-0.1.0/torrent-store-0.1.0.tgz
+      version: 0.1.0
   torrent-web-cache:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-05-20T23:02:07.738559+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 3e8bd1c5a637a4388897577076849db03b7f72a3538b8ccca728c9d1a6b84a0f
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.12/torrent-web-cache-0.1.12.tgz
-    version: 0.1.12
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-05-20T22:55:39.983756+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 9c4a52ab2b7dfd52e3f2d33dd3b211acf1ab6335f7080524a1a63932e95223d0
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.11/torrent-web-cache-0.1.11.tgz
-    version: 0.1.11
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-28T20:56:14.370544+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 56a57918a6eef8e3821f22e0e02c36792198cb555aca5e2c59dc3acce76ba708
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.10/torrent-web-cache-0.1.10.tgz
-    version: 0.1.10
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-28T20:19:14.102139+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 9cbd3d302281e8f912c91a34de26f6a6face4641ba5905c2d4e9020cbe0ba4bf
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.9/torrent-web-cache-0.1.9.tgz
-    version: 0.1.9
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-25T22:31:10.567822+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 3b4ad755d827083c6f3377a259beeb94048f1e09e43e0a1101ca32e769cea81a
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.8/torrent-web-cache-0.1.8.tgz
-    version: 0.1.8
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-13T13:54:14.12948+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 697b326e6411a1f6d75926148e7cfbe5fe0811a476c0cf99bc0b204a59c68b58
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.7/torrent-web-cache-0.1.7.tgz
-    version: 0.1.7
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-18T00:28:36.295334+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 09178b04c637b0d08aa1936a7c58a81c0cb23ebdb8c2543098b424cdbdc132fd
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.6/torrent-web-cache-0.1.6.tgz
-    version: 0.1.6
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-12T19:16:32.426972+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 0138a5d9a5805ff8624d3263b9ae3698b8e43b62dc32ed444224cd8f8868f499
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.5/torrent-web-cache-0.1.5.tgz
-    version: 0.1.5
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-12T18:06:18.836479+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 072ad03f15e879dfaea62eb23d44b1c1b83aebb23fa036d4ec95623a7e97ccad
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.4/torrent-web-cache-0.1.4.tgz
-    version: 0.1.4
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-03T18:13:16.667845+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 5a5f0a6eb0f08e7a515e4e87b038710e42b23700e5ba87b57f0c198616fffc45
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.3/torrent-web-cache-0.1.3.tgz
-    version: 0.1.3
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-03T16:00:37.884444+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 6ef99e2350207cedc4ced960c9cdb94229426466beedd4bd73283dda6f2fdc13
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.2/torrent-web-cache-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-03T15:43:30.398756+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 8988784bb60702f9fe728934df670ca95e2f1e5ea94312e4f368ec969cb68834
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.1/torrent-web-cache-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-03T15:22:19.175327+03:00"
-    description: Caching proxy for torrent content with S3-backend
-    digest: 0663bfb5b31d962c2bfa9c39219e3e6ce967045b5863196d8320d9f4a4cea50c
-    name: torrent-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.0/torrent-web-cache-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-05-20T23:02:07.738559+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 3e8bd1c5a637a4388897577076849db03b7f72a3538b8ccca728c9d1a6b84a0f
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.12/torrent-web-cache-0.1.12.tgz
+      version: 0.1.12
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-05-20T22:55:39.983756+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 9c4a52ab2b7dfd52e3f2d33dd3b211acf1ab6335f7080524a1a63932e95223d0
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.11/torrent-web-cache-0.1.11.tgz
+      version: 0.1.11
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-28T20:56:14.370544+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 56a57918a6eef8e3821f22e0e02c36792198cb555aca5e2c59dc3acce76ba708
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.10/torrent-web-cache-0.1.10.tgz
+      version: 0.1.10
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-28T20:19:14.102139+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 9cbd3d302281e8f912c91a34de26f6a6face4641ba5905c2d4e9020cbe0ba4bf
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.9/torrent-web-cache-0.1.9.tgz
+      version: 0.1.9
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-25T22:31:10.567822+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 3b4ad755d827083c6f3377a259beeb94048f1e09e43e0a1101ca32e769cea81a
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.8/torrent-web-cache-0.1.8.tgz
+      version: 0.1.8
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-13T13:54:14.12948+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 697b326e6411a1f6d75926148e7cfbe5fe0811a476c0cf99bc0b204a59c68b58
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.7/torrent-web-cache-0.1.7.tgz
+      version: 0.1.7
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-18T00:28:36.295334+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 09178b04c637b0d08aa1936a7c58a81c0cb23ebdb8c2543098b424cdbdc132fd
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.6/torrent-web-cache-0.1.6.tgz
+      version: 0.1.6
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-12T19:16:32.426972+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 0138a5d9a5805ff8624d3263b9ae3698b8e43b62dc32ed444224cd8f8868f499
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.5/torrent-web-cache-0.1.5.tgz
+      version: 0.1.5
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-12T18:06:18.836479+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 072ad03f15e879dfaea62eb23d44b1c1b83aebb23fa036d4ec95623a7e97ccad
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.4/torrent-web-cache-0.1.4.tgz
+      version: 0.1.4
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-03T18:13:16.667845+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 5a5f0a6eb0f08e7a515e4e87b038710e42b23700e5ba87b57f0c198616fffc45
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.3/torrent-web-cache-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-03T16:00:37.884444+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 6ef99e2350207cedc4ced960c9cdb94229426466beedd4bd73283dda6f2fdc13
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.2/torrent-web-cache-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-03T15:43:30.398756+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 8988784bb60702f9fe728934df670ca95e2f1e5ea94312e4f368ec969cb68834
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.1/torrent-web-cache-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-03T15:22:19.175327+03:00"
+      description: Caching proxy for torrent content with S3-backend
+      digest: 0663bfb5b31d962c2bfa9c39219e3e6ce967045b5863196d8320d9f4a4cea50c
+      name: torrent-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/torrent-web-cache-0.1.0/torrent-web-cache-0.1.0.tgz
+      version: 0.1.0
   transcode-web-cache:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T13:59:41.153039+03:00"
-    description: Caching proxy for transcoded content with S3-backend
-    digest: 84e45104100f7088aef41845b1a82d821625017599f69d4f9ee0ac5f8ac22a0f
-    name: transcode-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/transcode-web-cache-0.1.2/transcode-web-cache-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-13T13:54:14.513349+03:00"
-    description: Caching proxy for transcoded content with S3-backend
-    digest: 8ef415282fa2a1febde1537ffa23c6a8c3091b82e78ae84bd1e9933a0ca22e39
-    name: transcode-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/transcode-web-cache-0.1.1/transcode-web-cache-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-03-11T23:33:02.532085+03:00"
-    description: Caching proxy for transcoded content with S3-backend
-    digest: a19d1e6ce70e0f606da8495ec63eed0a55750e50d2f6d5c9648561b6b04a96a5
-    name: transcode-web-cache
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/transcode-web-cache-0.1.0/transcode-web-cache-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T13:59:41.153039+03:00"
+      description: Caching proxy for transcoded content with S3-backend
+      digest: 84e45104100f7088aef41845b1a82d821625017599f69d4f9ee0ac5f8ac22a0f
+      name: transcode-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/transcode-web-cache-0.1.2/transcode-web-cache-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-13T13:54:14.513349+03:00"
+      description: Caching proxy for transcoded content with S3-backend
+      digest: 8ef415282fa2a1febde1537ffa23c6a8c3091b82e78ae84bd1e9933a0ca22e39
+      name: transcode-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/transcode-web-cache-0.1.1/transcode-web-cache-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-03-11T23:33:02.532085+03:00"
+      description: Caching proxy for transcoded content with S3-backend
+      digest: a19d1e6ce70e0f606da8495ec63eed0a55750e50d2f6d5c9648561b6b04a96a5
+      name: transcode-web-cache
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/transcode-web-cache-0.1.0/transcode-web-cache-0.1.0.tgz
+      version: 0.1.0
   url-store:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-08-10T22:33:31.837036+03:00"
-    description: Url Store Chart
-    digest: 8d4718115f85a46a0ac81a149793746e2c12a01b4ea5884a506d64c19215fd8e
-    name: url-store
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/url-store-0.1.0/url-store-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-08-10T22:33:31.837036+03:00"
+      description: Url Store Chart
+      digest: 8d4718115f85a46a0ac81a149793746e2c12a01b4ea5884a506d64c19215fd8e
+      name: url-store
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/url-store-0.1.0/url-store-0.1.0.tgz
+      version: 0.1.0
   video-info:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-18T00:28:36.770395+03:00"
-    description: Video Info Chart
-    digest: ca0812c0c8362c2c3451c9d4175dcc60271a4008019dca301ac4c275781968b3
-    name: video-info
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.3/video-info-0.1.3.tgz
-    version: 0.1.3
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-14T20:59:33.658509+03:00"
-    description: Video Info Chart
-    digest: a3dc4fc569a4ba4e3ff193e71ab48c5f1075780ec3cc72b06a8f03e2c188043e
-    name: video-info
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.2/video-info-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-04-08T00:38:10.348818+03:00"
-    description: Video Info Chart
-    digest: ebe625def21445ca48c1738511b6e53eb60f565760752266fc9cb1e915d06ce5
-    name: video-info
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.1/video-info-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-02-03T22:59:06.132864+03:00"
-    description: Video Info Chart
-    digest: 728854b8f3573f72b5c8b50c5de87eee339428c58a14aa6a32a05333e594f076
-    name: video-info
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.0/video-info-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-19T00:28:36.770395+03:00"
+      description: Video Info Chart
+      digest: 2c02d01f761da419a8184211d6eca70f799ec7b6bbba1b8f08499d37933518e6
+      name: video-info
+      urls:
+        - http://127.0.0.1:8081/video-info/video-info-0.1.4.tgz
+      version: 0.1.4
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-18T00:28:36.770395+03:00"
+      description: Video Info Chart
+      digest: ca0812c0c8362c2c3451c9d4175dcc60271a4008019dca301ac4c275781968b3
+      name: video-info
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.3/video-info-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-14T20:59:33.658509+03:00"
+      description: Video Info Chart
+      digest: a3dc4fc569a4ba4e3ff193e71ab48c5f1075780ec3cc72b06a8f03e2c188043e
+      name: video-info
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.2/video-info-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-04-08T00:38:10.348818+03:00"
+      description: Video Info Chart
+      digest: ebe625def21445ca48c1738511b6e53eb60f565760752266fc9cb1e915d06ce5
+      name: video-info
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.1/video-info-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-02-03T22:59:06.132864+03:00"
+      description: Video Info Chart
+      digest: 728854b8f3573f72b5c8b50c5de87eee339428c58a14aa6a32a05333e594f076
+      name: video-info
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/video-info-0.1.0/video-info-0.1.0.tgz
+      version: 0.1.0
   video-thumbnails-generator:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-09-18T00:28:37.409866+03:00"
-    description: Video Thumbnails Generator Chart
-    digest: 9a5b58160cc13d1027a295dc80997fe39338d8710d9ab1b71b635e3202d08bcb
-    name: video-thumbnails-generator
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/video-thumbnails-generator-0.1.2/video-thumbnails-generator-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-06-26T01:04:56.992495+03:00"
-    description: Video Thumbnails Generator Chart
-    digest: 7485d477527dd6a537490fbc3cba02bb31d4bf2548a4a4505fb069c3c41768ee
-    name: video-thumbnails-generator
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/video-thumbnails-generator-0.1.1/video-thumbnails-generator-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-06-26T00:54:19.427888+03:00"
-    description: Video Thumbnails Generator Chart
-    digest: ec45ab3b299bb5a0cf95cf60264d35272dc4ad91a629492ba67109edb0b52539
-    name: video-thumbnails-generator
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/video-thumbnails-generator-0.1.0/video-thumbnails-generator-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-09-18T00:28:37.409866+03:00"
+      description: Video Thumbnails Generator Chart
+      digest: 9a5b58160cc13d1027a295dc80997fe39338d8710d9ab1b71b635e3202d08bcb
+      name: video-thumbnails-generator
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/video-thumbnails-generator-0.1.2/video-thumbnails-generator-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-06-26T01:04:56.992495+03:00"
+      description: Video Thumbnails Generator Chart
+      digest: 7485d477527dd6a537490fbc3cba02bb31d4bf2548a4a4505fb069c3c41768ee
+      name: video-thumbnails-generator
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/video-thumbnails-generator-0.1.1/video-thumbnails-generator-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-06-26T00:54:19.427888+03:00"
+      description: Video Thumbnails Generator Chart
+      digest: ec45ab3b299bb5a0cf95cf60264d35272dc4ad91a629492ba67109edb0b52539
+      name: video-thumbnails-generator
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/video-thumbnails-generator-0.1.0/video-thumbnails-generator-0.1.0.tgz
+      version: 0.1.0
   webhook:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-05-20T22:55:42.986178+03:00"
-    description: Webhook Chart
-    digest: 110128a59751a5b54972437a7bafefb3f64a35f22b132b110a489598ad29d8ab
-    name: webhook
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webhook-0.1.0/webhook-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-05-20T22:55:42.986178+03:00"
+      description: Webhook Chart
+      digest: 110128a59751a5b54972437a7bafefb3f64a35f22b132b110a489598ad29d8ab
+      name: webhook
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webhook-0.1.0/webhook-0.1.0.tgz
+      version: 0.1.0
   webtor-web-blog:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-04-25T11:35:20.358396+03:00"
-    description: Webtor Web Blog Chart
-    digest: 64e4ad3650abe55ea4957224928984251b436c5c77479fb20322c692ea92d454
-    name: webtor-web-blog
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-blog-0.1.1/webtor-web-blog-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-03-10T01:52:22.511021+03:00"
-    description: Webtor Web Blog Chart
-    digest: e050c2bc89c82ae4706d047936fdf4af1da8a468f4561e6f5256c56b454bbab0
-    name: webtor-web-blog
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-blog-0.1.0/webtor-web-blog-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-04-25T11:35:20.358396+03:00"
+      description: Webtor Web Blog Chart
+      digest: 64e4ad3650abe55ea4957224928984251b436c5c77479fb20322c692ea92d454
+      name: webtor-web-blog
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-blog-0.1.1/webtor-web-blog-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-03-10T01:52:22.511021+03:00"
+      description: Webtor Web Blog Chart
+      digest: e050c2bc89c82ae4706d047936fdf4af1da8a468f4561e6f5256c56b454bbab0
+      name: webtor-web-blog
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-blog-0.1.0/webtor-web-blog-0.1.0.tgz
+      version: 0.1.0
   webtor-web-ui:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-11-05T13:59:43.804101+03:00"
-    description: Webtor Web UI Chart
-    digest: a46f3ec5fdd9f81c3faff8ef2012efc3e61d14bcd372d1ff0757fbcb2e598089
-    name: webtor-web-ui
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.3/webtor-web-ui-0.1.3.tgz
-    version: 0.1.3
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-04-25T11:35:20.941186+03:00"
-    description: Webtor Web UI Chart
-    digest: 317c029b0e9ec70b45162fbe32d1e23c69bffc2cc9b9dc93b7c0b0935d5ce735
-    name: webtor-web-ui
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.2/webtor-web-ui-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-04-10T17:11:57.929253+03:00"
-    description: Webtor Web UI Chart
-    digest: 076455ed0aaa5f882dad0eda6024b08e45f8295021728fef3724f3c6eaf8fbbb
-    name: webtor-web-ui
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.1/webtor-web-ui-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-03-10T01:52:22.725935+03:00"
-    description: Webtor Web UI Chart
-    digest: c896e1511186f67852ee9c6e84978848f9ad2b024b7abe001cb673b39c568b67
-    name: webtor-web-ui
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.0/webtor-web-ui-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-11-05T13:59:43.804101+03:00"
+      description: Webtor Web UI Chart
+      digest: a46f3ec5fdd9f81c3faff8ef2012efc3e61d14bcd372d1ff0757fbcb2e598089
+      name: webtor-web-ui
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.3/webtor-web-ui-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-04-25T11:35:20.941186+03:00"
+      description: Webtor Web UI Chart
+      digest: 317c029b0e9ec70b45162fbe32d1e23c69bffc2cc9b9dc93b7c0b0935d5ce735
+      name: webtor-web-ui
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.2/webtor-web-ui-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2021-04-10T17:11:57.929253+03:00"
+      description: Webtor Web UI Chart
+      digest: 076455ed0aaa5f882dad0eda6024b08e45f8295021728fef3724f3c6eaf8fbbb
+      name: webtor-web-ui
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.1/webtor-web-ui-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-03-10T01:52:22.725935+03:00"
+      description: Webtor Web UI Chart
+      digest: c896e1511186f67852ee9c6e84978848f9ad2b024b7abe001cb673b39c568b67
+      name: webtor-web-ui
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtor-web-ui-0.1.0/webtor-web-ui-0.1.0.tgz
+      version: 0.1.0
   webtorrent-tracker:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-06-27T16:33:10.234096+03:00"
-    description: WebTorrent Tracker Chart
-    digest: 911484971f2e3b7faf73b29cf0b7772a304b10be0f2e4a073489f89176573ce5
-    name: webtorrent-tracker
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtorrent-tracker-0.1.1/webtorrent-tracker-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-05-17T00:23:05.393688+03:00"
-    description: WebTorrent Tracker Chart
-    digest: 3240286b3c582bcb4e7d450811c7d26d4003dbb15baa16ea4cdf90697af9da63
-    name: webtorrent-tracker
-    urls:
-    - https://github.com/webtor-io/helm-charts/releases/download/webtorrent-tracker-0.1.0/webtorrent-tracker-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-06-27T16:33:10.234096+03:00"
+      description: WebTorrent Tracker Chart
+      digest: 911484971f2e3b7faf73b29cf0b7772a304b10be0f2e4a073489f89176573ce5
+      name: webtorrent-tracker
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtorrent-tracker-0.1.1/webtorrent-tracker-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-05-17T00:23:05.393688+03:00"
+      description: WebTorrent Tracker Chart
+      digest: 3240286b3c582bcb4e7d450811c7d26d4003dbb15baa16ea4cdf90697af9da63
+      name: webtorrent-tracker
+      urls:
+        - https://github.com/webtor-io/helm-charts/releases/download/webtorrent-tracker-0.1.0/webtorrent-tracker-0.1.0.tgz
+      version: 0.1.0
 generated: "2019-12-17T01:07:48.69474+03:00"
