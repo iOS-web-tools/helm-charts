@@ -78,7 +78,7 @@ releases:
     - seeder:
         image: ghcr.io/ios-web-tools/torrent-web-seeder:0.1.2
     - transcoder:
-        image: ghcr.io/ios-web-tools/content-transcoder:0.2.0
+        image: ghcr.io/ios-web-tools/content-transcoder:0.2.1
     - service:
         type: NodePort
     - image:
